@@ -1,3 +1,19 @@
+# -*- coding: utf-8 -*-
+#
+# This script is based on:
+#
+# Lixiong Qin, Mei Wang, Chao Deng, Ke Wang, Xi Chen, Jiani Hu, Weihong Deng:
+# SwinFace: A Multi-task Transformer for Face Recognition, Facial Expression Recognition, Age Estimation and Face Attribute Estimation,
+# IEEE Transactions on Pattern Analysis and Machine Intelligence, 2308.11509v1, Aug. 2023.
+#          see: https://arxiv.org/pdf/2308.11509.pdf
+#
+# The code (in the source above) is based on the SwinFace implementation of the FAC model and only serves as a part of the whole solution
+# (it won't work as a standalone, it has to be replaced directly in the locally cloned SwinFace repository)
+# SwinFace: https://github.com/lxq1000/SwinFace
+#          license: MIT License
+#
+
+
 import argparse
 
 import cv2
