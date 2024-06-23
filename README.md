@@ -16,4 +16,4 @@ To run the SwinFace model, follow these steps:
   - Adjust the paths in `inference.py` file
 
 ### CelebA Dataset
-Download the [CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) aligned and corpped dataset and store it in a folder above the FAC repository directory.
+Download the [CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) aligned and cropped dataset and store it in a folder above the FAC repository directory.
