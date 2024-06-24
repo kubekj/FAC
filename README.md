@@ -10,7 +10,7 @@ To run the Facer model, execute the steps in `experiments.ipynb` to run the mode
 ### SwinFace Model
 To run the SwinFace model, follow these steps:
 1. Download SwinFace locally.
-2. Replace `inference.py` with the version included in the FAC repository.
+2. Replace `inference.py` with the version included in the FAC repository under the `utils/` folder.
 3. Complete the setup by following the instructions in the [SwinFace](https://github.com/lxq1000/SwinFace) `.readme` file:
 - Download the model
 - Adjust the paths in `inference.py` file
