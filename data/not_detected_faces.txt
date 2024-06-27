@@ -1,5 +1,4 @@
 370 (0.0018%) out of 202599 (100%) faces that has not been detected by facer model are listed below:
-----------
 145340.jpg
 146885.jpg
 043080.jpg
@@ -370,4 +369,3 @@
 149615.jpg
 074351.jpg
 084505.jpg
-----------
