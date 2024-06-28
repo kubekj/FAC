@@ -2,9 +2,9 @@
 
 This repository contains a comprehensive project on Facial Attribute Classification (FAC), focusing on the analysis, comparison, and evaluation of [Facer](https://github.com/FacePerceiver/facer) and [SwinFace](https://github.com/lxq1000/SwinFace). The projects have been tested against the [CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).
 
-## Setup Instructions
+## Setup (Optional)
 
-<mark> Only do if you want to replicate the whole process of gathering data, if you want to check the comparison stage - skip to the Comparison section below </mark>
+<mark> Follow only if you want to replicate the whole process of gathering data, if you're interested only in the evaluation stage - skip to the Evaluation section below </mark>
 
 ### Facer Model
 
@@ -27,7 +27,7 @@ To run the [SwinFace](https://github.com/lxq1000/SwinFace) model, follow these s
 
 Download the [CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) aligned and cropped dataset and store it in a folder above the FAC repository directory.
 
-## Comparison instructions
+## Evaluation 
 
 ### CSV files
 
